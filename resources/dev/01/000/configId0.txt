@@ -213,6 +213,8 @@
                "action_type":"fbt"
         }
    },
-   "walmartBaseUrl":"http://www.walmart.com/",
+   "walmartBaseUrl":"",
+
    "onlyOneItemPerPlacement": false
+   
 }
